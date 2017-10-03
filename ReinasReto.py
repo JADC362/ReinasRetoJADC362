@@ -119,5 +119,5 @@ def imprimirMatriz(matriz):
 
 	print()
 
-
+#Inicio del programa. Para cambiar el tamaño del tablero poner 8 en vez del número deseado.
 inicio(8)
